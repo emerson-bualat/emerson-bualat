@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emerson Bualat</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **PERN Stack, TailwindCSS and React Native**
+- 🌱 I’m currently learning **PERN Stack, TailwindCSS**
 
 - 📫 How to reach me **bualat.emerson@gmail.com**
 
