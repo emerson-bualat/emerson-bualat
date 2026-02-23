@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emerson Bualat</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core, TailwindCSS**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **bualat.emerson@gmail.com**
 
